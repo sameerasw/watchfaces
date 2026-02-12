@@ -941,7 +941,7 @@
 						<Group x="0" y="0" width="225" height="225" name="color_maks">
 							<PartText x="0" y="0" width="225" height="225" renderMode="MASK" alpha="255">
 								<TextCircular align="START" ellipsis="FALSE" width="350" height="350" startAngle="279" endAngle="351" centerX="225" centerY="225" direction="CLOCKWISE">
-									<Font family="SYNC_TO_DEVICE" size="24" color="#ffffff">
+									<Font family="google_sans_flex" size="24" color="#ffffff">
 										<InlineImage resource="empty" source="COMPLICATION.MONOCHROMATIC_IMAGE" width="28" height="28" />
 										<Template>
 											%s
@@ -1230,7 +1230,7 @@
 						<Group x="0" y="0" width="225" height="225" name="color_maks">
 							<PartText x="0" y="0" width="225" height="225" renderMode="MASK" alpha="255">
 								<TextCircular align="START" ellipsis="FALSE" width="350" height="350" startAngle="9" endAngle="72" centerX="0" centerY="225" direction="CLOCKWISE">
-									<Font family="SYNC_TO_DEVICE" size="24" color="#ffffff">
+									<Font family="google_sans_flex" size="24" color="#ffffff">
 										<InlineImage resource="empty" source="COMPLICATION.MONOCHROMATIC_IMAGE" width="28" height="28" />
 										<Template>
 											%s
@@ -1504,7 +1504,7 @@
 											</Template>
 										</Upper>
 									</Font>
-									<Font family="SYNC_TO_DEVICE" size="24" color="#ffffff">
+									<Font family="google_sans_flex" size="24" color="#ffffff">
 										<Template>
 											%s
 											<Parameter expression="&#160;" />
@@ -1793,7 +1793,7 @@
 											</Template>
 										</Upper>
 									</Font>
-									<Font family="SYNC_TO_DEVICE" size="24" color="#ffffff">
+									<Font family="google_sans_flex" size="24" color="#ffffff">
 										<Template>
 											%s
 											<Parameter expression="&#160;" />
